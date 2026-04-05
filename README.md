@@ -18,21 +18,21 @@ Built entirely on the frontend with React + Vite + Tailwind CSS, using mock data
 
 | Requirement | Status | Details |
 |---|---|---|
-| Summary cards (Balance, Income, Expenses) | ✅ | With month-over-month % trend arrows |
-| Time-based visualization | ✅ | Area chart — running balance over time |
-| Categorical visualization | ✅ | Donut chart — spending by category |
-| Transactions list (date, amount, category, type) | ✅ | Table on desktop, cards on mobile |
-| Filtering | ✅ | Filter by All / Income / Expense |
-| Sorting and Search | ✅ | Sort by date or amount, real-time search |
-| Role-Based UI (Viewer / Admin) | ✅ | Dropdown switcher, CRUD gated to Admin only |
-| Insights — highest spending category | ✅ | Dynamically calculated from live data |
-| Insights — monthly comparison | ✅ | Bar chart + 5 smart insight cards |
-| State management | ✅ | Context API — transactions, filters, role, theme |
-| Responsive design | ✅ | Mobile drawer + desktop sidebar |
-| Empty / no-data states | ✅ | Illustrated empty states throughout |
-| Dark mode (optional) | ✅ | Toggle in sidebar, persisted in localStorage |
-| Data persistence (optional) | ✅ | Transactions, role, and theme saved in localStorage |
-| Animations / transitions (optional) | ✅ | Staggered CSS animations on every page |
+| Summary cards (Balance, Income, Expenses) |  | With month-over-month % trend arrows |
+| Time-based visualization | | Area chart — running balance over time |
+| Categorical visualization |  | Donut chart — spending by category |
+| Transactions list (date, amount, category, type) |  | Table on desktop, cards on mobile |
+| Filtering |  | Filter by All / Income / Expense |
+| Sorting and Search |  | Sort by date or amount, real-time search |
+| Role-Based UI (Viewer / Admin) |  | Dropdown switcher, CRUD gated to Admin only |
+| Insights — highest spending category | | Dynamically calculated from live data |
+| Insights — monthly comparison |  | Bar chart + 5 smart insight cards |
+| State management |  | Context API — transactions, filters, role, theme |
+| Responsive design | | Mobile drawer + desktop sidebar |
+| Empty / no-data states |  | Illustrated empty states throughout |
+| Dark mode (optional) |  | Toggle in sidebar, persisted in localStorage |
+| Data persistence (optional) |  | Transactions, role, and theme saved in localStorage |
+| Animations / transitions (optional) |  | Staggered CSS animations on every page |
 
 ---
 
